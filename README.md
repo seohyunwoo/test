@@ -8,38 +8,38 @@
 
 ## 얼굴 특징점 검출
 
-<img src="./img/pic2.png">
+<img src="pic2.png">
 
 
 ## Template Matching
 
-<img src="./img/pic3.png">
+<img src="pic3.png">
 
 ## 얼굴 특징점 검출
 
-<img src="./img/pic4.png">
+<img src="pic4.png">
 
 
 ## CARTOON 효과
 
-<img src="./img/pic5.png">
+<img src="pic5.png">
 
 ## 모핑 알고리즘 과정 (워핑+디졸브)
 
-<img src="./img/pic6.png">
+<img src="pic6.png">
 
 ## 영상의 워핑과 모핑
 
-<img src="./img/pic7.png">
+<img src="pic7.png">
 
-<img src="./img/pic8.png">
+<img src=".pic8.png">
 
 ## 모핑(Morphing)
 
-<img src="./img/pic9.png">
+<img src=".pic9.png">
 
-<img src="./img/pic10.png">
+<img src="pic10.png">
 
 ## 참고 문헌
 
-<img src="./img/pic11.png">
+<img src="pic11.png">
